@@ -51,8 +51,17 @@ jobs:
           git add .
           git commit -m "Update MOC files" || echo "nothing to commit"
 
+      # This needs to be run after all of the automated content additions have been made.
+      - name: Update directory tree
+        run: |
+          cd .github/scripts
+          ./update_directory_tree.sh
+          cd ../..
+          git add .
+          git commit -m "Update directory tree" || echo "nothing to commit"
+
       # This must be the last edit, to ensure that no later steps accidentally
-      # overwrite the footer. 
+      # overwrite the footer.
       - name: Add Footer
         run: |
           cd .github/scripts
