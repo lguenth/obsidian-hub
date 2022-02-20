@@ -7,5 +7,5 @@ cd ../..
 OUTPUT_FILE="00 - Contribute to the Obsidian Hub/03 Contributor Notes/03.01 Structure/Hub Tree Structure.md"
 
 tree -d -N -I venv --noreport > "$OUTPUT_FILE"
-sed -i "1i\`\`\`" "$OUTPUT_FILE" & \
-echo "\`\`\`" >> "$OUTPUT_FILE"
+sed -i "1i%% Hub Tree: Don’t edit below %%\n\`\`\`" "$OUTPUT_FILE" & \
+echo -e "\`\`\`\n%% Hub Tree: Don’t edit above %%" >> "$OUTPUT_FILE"
