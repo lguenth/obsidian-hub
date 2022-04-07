@@ -83,7 +83,6 @@ Plugins which have not yet been categorized by the community.
 - [[obsidian-plaintext|Plaintext]]
 - [[obsidian-native-scrollbars|Native Scrollbars]]
 - [[obsidian-wrap-with-shortcuts|Wrap with shortcuts]]
-- [[obsidian-indentation-guides|Indentation Guides]]
 - [[obsidian-tomorrows-daily-note|Tomorrow's Daily Note]]
 - [[obsidian-rant|Rant-Lang]]
 - [[obsidian-timestamper|TimeStamper]]
@@ -112,7 +111,7 @@ Plugins which have not yet been categorized by the community.
 - [[obsidian-topic-linking|Topic Linking]]
 - [[multi-column-markdown|Multi-Column Markdown]]
 - [[copy-as-html|Copy as HTML]]
-- [[simple-note-quiz|Simple note quiz]]
+- [[simple-note-quiz|Simple Note Quiz]]
 - [[obsidian-local-rest-api|Local REST API]]
 - [[obsidian-codeblock-labels|Code Block Labels]]
 - [[obsidian-better-command-palette|Better Command Palette]]
@@ -151,7 +150,7 @@ Plugins which have not yet been categorized by the community.
 - [[waypoint|Waypoint]]
 - [[obsidian-hover-editor|Hover Editor]]
 - [[obsidian-screwdriver|Screwdriver]]
-- [[obsidian-version-history-diff|Version History Diff (Sync, File Recovery & Git)]]
+- [[obsidian-version-history-diff|Version History Diff]]
 - [[obsidian-format-code|Format code]]
 - [[obsidian-buttondown-plugin|Buttondown]]
 - [[lapel|Lapel]]
@@ -159,10 +158,13 @@ Plugins which have not yet been categorized by the community.
 - [[obsidian-custom-frames|Custom Frames]]
 - [[obsidian-etherpad-plugin|Etherpad]]
 - [[obsidian-quiet-outline|Quiet Outline]]
+- [[obsidian-daily-notes-viewer|Daily Notes Viewer]]
+- [[obsidian-zotero-desktop-connector|Zotero Desktop Connector]]
+- [[obsidian-telegraph-publish|Telegraph Publish]]
+- [[obsidian-path-title|Path Title]]
+- [[obsidian-jira-issue|JiraIssue]]
+- [[smort-obsidian|Smort]]
+- [[control-characters|Control Characters]]
+- [[obsidian-asciidoc-blocks|AsciiDoc Blocks Plugin]]
+- [[fleeting-notes-obsidian|Fleeting Notes Sync]]
 
-
-%% Hub footer: Please don't edit anything below this line %%
-
-# This note in GitHub
-
-<span class="git-footer">[Edit In GitHub](https://github.dev/obsidian-community/obsidian-hub/blob/main/02%20-%20Community%20Expansions/02.01%20Plugins%20by%20Category/Uncategorized%20plugins.md "git-hub-edit-note") | [Copy this note](https://raw.githubusercontent.com/obsidian-community/obsidian-hub/main/02%20-%20Community%20Expansions/02.01%20Plugins%20by%20Category/Uncategorized%20plugins.md "git-hub-copy-note") | [Download this vault](https://github.com/obsidian-community/obsidian-hub/archive/refs/heads/main.zip "git-hub-download-vault") </span>
