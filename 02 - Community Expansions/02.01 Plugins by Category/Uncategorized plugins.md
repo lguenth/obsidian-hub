@@ -553,7 +553,7 @@ Plugins which have not yet been categorized by the community.
 - [[obsidian-dashing-cursor|Dashing cursor]]: Enables dashing cursor that follows the page scroll
 - [[data-entry|Data Entry]]: Create forms that save data simply; the data view of data entry
 - [[data-fetcher|Data Fetcher]]: Fetch data from multiple sources (REST APIs, RPC, gRPC, GraphQL) and insert results into notes
-- [[data-files-editor|Data Files Editor]]: Plugin to edit data files like txt, xml, json
+- [[data-files-editor|Data Files Editor]]: Plugin to edit data files like txt, xml, json, and yaml
 - [[data-cards|DataCards]]: Transform Dataview query results into visually appealing, customizable card layouts.
 - [[datacore|Datacore]]: Reactive query engine backed by Javascript or a custom query language.
 - [[dataview-properties|Dataview (to) Properties]]: Automagically copy dataview inline field (and their values, even calculated!) into frontmatter properties and keep them sync.
@@ -585,6 +585,7 @@ Plugins which have not yet been categorized by the community.
 - [[dialogue-mode|Dialogue Mode]]: Dialogue mode for editing speech in writing.
 - [[diarian|Diarian]]: All-in-one journaling toolkit.
 - [[diary-ics|Diary ICS]]: Sync diary entries to system calendar via ICS feed.
+- [[lexicon-dictionary|Dictionary Lexicon]]: Look up words and improve vocabulary by using flash card style cards.
 - [[dictionary-translator|Dictionary translator]]: 它可以帮助你翻译单词或句子，听新单词或句子的录音，甚至录下自己的发音，以内部链接的形式保存到你的笔记中。
 - [[diffzip|Differential ZIP Backup]]: Back our vault up with lesser storage.
 - [[digitalgarden|Digital Garden]]: Publish your notes to the web for others to enjoy. For free.
@@ -819,6 +820,7 @@ Plugins which have not yet been categorized by the community.
 - [[ghcat-reminder|GChat Reminder]]: Sends notifications to Google Chat Webhook based on due dates in Obsidian tasks.
 - [[gdscript-syntax-highlighting|GDScript Syntax Highlighting]]: Add live GDScript syntax highlighting to code blocks.
 - [[gh-links-shortener|GH Links Shortener]]: Modifies pasted GitHub links to use short GitHub ref text as the link title.
+- [[glsl-viewer|GLSL Viewer]]: Preview GLSL shaders.
 - [[gpg-encrypt|GPG Encrypt]]: Plugin to encrypt partial text or complete notes using GPG technology, it is compatible with security keys such as YubiKey or traditional GPG encryption methods
 - [[gpt-assistant|GPT Assistant]]: Use a GPT-3 based model on your notes and get personalized answers from your knowledge base.
 - [[gpt3-notes|GPT-3 Notes]]: Create a note using OpenAI's GPT-3 language model.
@@ -908,6 +910,7 @@ Plugins which have not yet been categorized by the community.
 - [[hadith-lookup|Hadith Lookup]]: Inserts Hadith and Quranic ayat and passages using a reference ID from the Ḥadīth Unlocked API (https://hadithunlocked.com)
 - [[halo|Halo]]: Halo's Obsidian integration supports publishing content to Halo sites
 - [[hamsterbase|HamsterBase Official]]: Official HamsterBase -> Obsidian integration
+- [[handlebars-dynamic|Handlebars Dynamic Templating]]: Handlebars dynamic templating. Define template files and use them dynamically via hb blocks. Template recursion is also possible.
 - [[obsidian-handlebars|Handlebars Template Plugin]]: This is a plugin for Obsidian that adds support for handlebars template blocks in notes.
 - [[handwriting-ocr|Handwriting OCR]]: Transform handwritten documents and scanned images into editable text with Handwriting OCR's AI-powered handwriting to text conversion.
 - [[handwritten-notes|Handwritten Notes]]: Annotate PDFs and create handwritten notes inside your vault using a stylus.
@@ -995,12 +998,12 @@ Plugins which have not yet been categorized by the community.
 - [[image-ocr|Image OCR]]: Runs OCR on images and copies content in image caption.
 - [[image-picker|Image Picker]]: Adds a UI panel for quickly selecting images that are in your vault.
 - [[image-preview-on-icon-hover|Image Preview on Icon Hover]]: Adds custom image previews when hovering over various UI icons.
-- [[image-search|Image Search]]: Search and insert images using Google API
+- [[image-search|Image Search]]: Search and insert images using Brave Search API
 - [[image-share|Image Share]]: Share selected text as beautiful images
 - [[image-size|Image Size]]: Set the default size for pasted images.
 - [[lskypro-auto-upload|Image To Lskypro]]: Auto upload images from clipboard to lskypro
 - [[image-tools|Image Tools]]: Formatter for image on page
-- [[image-upload-toolkit|Image Upload Toolkit]]: Upload local images to remote store (Imgur, AliYun OSS, Imagekit, Amazon S3, TencentCloud COS and Qiniu Kodo).
+- [[image-upload-toolkit|Image Upload Toolkit]]: Upload local images to remote store (Imgur, AliYun OSS, Imagekit, Amazon S3, TencentCloud COS, Qiniu Kodo, GitHub, Cloudflare R2 and Backblaze B2).
 - [[image-uploader-for-note|Image Uploader For Note]]: Upload images in a note, and remove the images from the vault if they're exclusively used within that note.
 - [[diagram-zoom-drag|Image Zoom & Drag]]: Make any image or diagram interactive with zoom, drag, and control panels
 - [[img2html|Image to HTML]]: Paste images as HTML format instead of wikilink or markdown format
@@ -1025,7 +1028,7 @@ Plugins which have not yet been categorized by the community.
 - [[index-checker|Index Checker]]: Make sure your index "MOC" files (notes or Canvas) contain all links they should contain.
 - [[index-notes|Index Notes]]: Keep your notes indexed based on their (hierarchical) tags
 - [[infio-copilot|Infio Copilot]]: A Cursor-inspired AI assistant for notes that offers smart autocomplete and interactive chat with your selected notes
-- [[influx|Influx]]: An alternative backlinks plugin, which displays relevant and formatted excerpts from notes with linked mentions, based on the position of mentions in the notes' hierarchical structure (bullet level indentation).
+- [[influx|Influx]]: Transform your Obsidian backlinks from simple links into rich, contextual excerpts. See the actual content surrounding each link, turning your note connections into genuine insights.
 - [[infoflow|InfoFlow]]: Import your contents from InfoFlow to Obsidian. Similar to ReadWise or Omnivore importers.
 - [[infostacker|Infostacker Note Publish]]: Easily share your notes, images and attachments publicly using private links
 - [[ink|Ink]]: Hand write or draw directly between paragraphs in your notes using a digital pen, stylus, or Apple pencil. Useful for handwriting, sketches, scribbles, or even math equations and scientific notation. Runs on the tldraw framework and drawing provides an infinite canvas.
@@ -1036,6 +1039,7 @@ Plugins which have not yet been categorized by the community.
 - [[inline-checkbox-groups|Inline Checkbox Groups]]: Create multiple checkboxes on a single line, separated by a customizable separator character (default '|'), with the option to automatically cross out text when all checkboxes in the line are checked.
 - [[inline-code-copy|Inline Code Copy]]: Copy inline code on click in reading view.
 - [[inline-encrypter|Inline Encrypter]]: Encrypt secrets in your notes.
+- [[inline-local-graph|Inline Local Graph]]: Visualize the local graph inline within your notes.
 - [[obsidian-text-expander-js|Inline Scripts]]: Type text shortcuts which are then replaced with JavaScript generated text.
 - [[inline-spoilers|Inline spoilers]]: Adds Discord-like syntax for inline spoilers.
 - [[inlineai|InlineAI]]: AI-powered suggestions, contextual edits, and advanced text transformations directly into your editor.
@@ -1284,6 +1288,7 @@ Plugins which have not yet been categorized by the community.
 - [[meld-calc|Meld Calc]]: Do math
 - [[memochron|MemoChron]]: Calendar integration and note creation with support for public iCalendar URLs
 - [[memodack|Memodack]]: Your second language memory tool
+- [[memories|Memories]]: Display media galleries with images, videos, and audio directly in notes.
 - [[memorization|Memorization]]: Generates study index notes using a spaced repetition algorithm (SM-2).
 - [[vn-memory-lane|MemoryLane]]: Relive and celebrate your life's milestones on a personal, interactive timeline. A nostalgic journey through your history with anniversary reminders and cherished memories.
 - [[memos-ai-sync|Memos AI Sync]]: Sync Memos content with AI enhancement
@@ -1836,7 +1841,7 @@ Plugins which have not yet been categorized by the community.
 - [[sidebar-resizer|Sidebar Resizer]]: Adjust the sidebar sizes easily.
 - [[sigma|Sigma]]: A plugin to enable using obsidian notes as calculation sheets.
 - [[silicon|Silicon AI]]: Add some intelligence to your notes with Silicon AI
-- [[similar-notes|Similar Notes]]: Find semantically similar notes using local AI. Works on desktop and mobile without external servers.
+- [[similar-notes|Similar Notes]]: Find semantically similar notes using AI. Local models (mobile & desktop) or cloud APIs.
 - [[simple-anki-sync|Simple Anki Sync]]: The simplest way of syncing simple Flashchards with Anki.
 - [[simple-archiver|Simple Archiver]]: Move old, stinky notes and folders to an archive, where they belong.
 - [[simple-banner|Simple Banner]]: Visually enhance your notes with a customizable banner. Supports icons and time/date display.
@@ -1858,6 +1863,7 @@ Plugins which have not yet been categorized by the community.
 - [[simple-prompt|Simple Prompt]]: Simple interface to generate or rewrite content using LLMs based on user input.
 - [[simple-quiz|Simple Quiz]]: Creating simple quizzes.
 - [[simple-rss|Simple RSS]]: Collect RSS articles into notes.
+- [[simple-steam-auth|Simple Steam Auth]]: Generate Steam Guard codes right in your vault.
 - [[simple-tab-indent|Simple Tab Indent]]: Pressing Tab inserts a zero-width space + real tab, giving true indentation without triggering Markdown code blocks. Includes a settings panel to change the CSS tab width.
 - [[simple-table-math|Simple Table Math]]: Do some math (sum, average, etc.) in your markdown tables.
 - [[simple-todo|Simple Todo]]: A minimalist text-based todo manager (Text-Based GTD) for efficient task management.
