@@ -93,7 +93,6 @@ Plugins which have not yet been categorized by the community.
 - [[alias-picker|Alias Picker]]: Pick aliases or blocks of links.
 - [[obsidian-alias-from-heading|Alias from heading]]: Implicitly add an alias matching the first heading in a document.
 - [[alignment-tracker|Alignment Tracker]]: Track character alignment using a 3x3 grid.
-- [[aloud-tts|Aloud]]: Highlight and speak text from your notes. Converts text to speech in real-time with lifelike voices.
 - [[alpha-bullet|Alpha Bullet]]: Sorts bulleted lists alphabetically.
 - [[alt-click-to-copy|Alt-Click to Copy]]: Alt-click to copy code!
 - [[always-color-text|Always Color Text]]: Automatically Colors & Highlights Text across the Vault.
@@ -808,7 +807,7 @@ Plugins which have not yet been categorized by the community.
 - [[format-with-prettier|Format with Prettier]]: Format files in your vault using Prettier.
 - [[formatto-format|Formatto]]: Simple, fast, and easy-to-use Markdown formatter.
 - [[forms|Forms]]: Publish beautiful forms and get responses straight to your vault.
-- [[fountain|Fountain]]: Write and view screenplays in Fountain format with index cards and lots of other features.
+- [[fountain|Fountain]]: Write screenplays in Fountain format with live screenwriting formatting, index cards, PDF export, rehearsal mode, scene numbers, snippets, and margin marks.
 - [[fountain-editor|Fountain Editor]]: Fountain (screenplay) syntax highlighting in the editor
 - [[freeform|Freeform]]: Make visualizations and run arbitrary code with JavaScript + iframe blocks.
 - [[mdfriday|Friday]]: Write anywhere. Publish everywhere. Sync your notes, publish instantly, turn Markdown into websites.
@@ -1398,7 +1397,7 @@ Plugins which have not yet been categorized by the community.
 - [[next-link|Next Link]]: Jump quickly between note links.
 - [[next-toc|Next TOC]]: Floating panel displaying the current document's reading progress, table of contents, and navigation aids.
 - [[nextcloud-link-fixer|Nextcloud Link Fixer]]: Nextcloud breaks Wiki-links (e.g. [[Some document]]). This fixes them.
-- [[nexus-ai-chat-importer|Nexus AI Chat Importer]]: Import AI conversations from ChatGPT, Claude, Le Chat, and Perplexity exports into Obsidian.
+- [[nexus-ai-chat-importer|Nexus AI Chat Importer]]: Import and organize AI chat exports from ChatGPT, Claude, Mistral Le Chat, Perplexity, and more in your local vault, so you stay in control of your data.
 - [[nifty-links|Nifty Links]]: Generate elegant, Notion-style rich link cards to enhance your note-taking experience
 - [[ninja-cursor|Ninja Cursor]]: The plugin which enhance cursor visibility.
 - [[no-empty-windows|No Empty Windows]]: Closes Obsidian window with cmd+W on Mac when the last tab is closed.
@@ -1577,7 +1576,7 @@ Plugins which have not yet been categorized by the community.
 - [[performosu|Performium]]: Integrates the osu! Performance Points system to gamify your note-taking experience!
 - [[perilous-writing|Perilous Writing]]: Write continuously—or lose all progress.
 - [[periodic-table|Periodic Table]]: View a periodic table in the sidebar
-- [[permalink-opener|Permalink Opener]]: Opens URLs based on a permalink or slug in the file properties
+- [[permalink-opener|Permalink Opener]]: Opens URLs based on a permalink or slug in the file properties.
 - [[perplexity-converter|Perplexity Converter]]: Fix references in text pasted from Perplexity.
 - [[persian-calendar|Persian Calendar]]: This tool lets you see events, add and organize notes from daily to yearly on the Persian calendar, use templates with placeholders, and works with all Obsidian daily plugins.
 - [[pkvs|Persistent Key-Value Store]]: Provides a persistent key-value store for use in scripts, along with a portable web inspector.
@@ -1697,7 +1696,7 @@ Plugins which have not yet been categorized by the community.
 - [[rtl-math-text|RTL Math Text]]: Mix right-to-left and left-to-right text in math expressions using configurable commands.
 - [[radial-timeline|Radial timeline]]: Radial Timeline maps your manuscript across four modes — Progress, Narrative, Chronologue, and Gossamer — plus the Inquiry View for higher-level story analysis. Visualize scenes, subplots, structure, chronology, and story shape in one connected workspace.
 - [[rainbow-folders-fixer|Rainbow Folders Fixer]]: Stop rainbow folders from changing colors when you scroll through the File explorer.
-- [[rainbow-colored-sidebar|Rainbow-Colored Sidebar]]: Automatically color your sidebar like a rainbow. No configuration needed. 9 themes included.
+- [[rainbow-colored-sidebar|Rainbow-Colored Sidebar]]: Automatically color your sidebar like a rainbow. No configuration needed. 18 themes included.
 - [[obsidian-raindrop-highlights|Raindrop Highlights]]: Sync your Raindrop.io highlights.
 - [[random-numbers-generator|Random Number Generator]]: Insert a random number.
 - [[random-wikipedia-article|Random Wikipedia Article]]: Generates a note for a random Wikipedia article.
